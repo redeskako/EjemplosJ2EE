@@ -8,8 +8,7 @@
 	<servlet>
 		<description>
 		</description>
-		<display-name>
-		MiPrimerServlet</display-name>
+		<display-name>MiPrimerServlet</display-name>
 		<servlet-name>MiPrimerServlet</servlet-name>
 		<servlet-class>
 		es.uned.master.java.MiPrimerServlet</servlet-class>
