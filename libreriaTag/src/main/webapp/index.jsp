@@ -16,6 +16,6 @@
 	La cadena es: 
 </ejemplo:itera>
 <hr/>
-Son las : <ejemplo:tiempo/>
+Son las: <ejemplo:tiempo/>
 </body>
 </html>
